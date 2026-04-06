@@ -47,41 +47,9 @@
 
 ---
 
-## 📁 Структура проекта
-online_retail_analysis/
-│
-├── data/
-│ ├── raw/
-│ │ └── online_retail.csv # Исходные данные
-│ └── processed/
-│ ├── df_final.csv # Очищенные данные
-│ ├── cross_sell_recommendations.csv
-│ ├── rfm_analysis.csv
-│ └── returns_analysis.csv
-│
-├── notebooks/
-│ ├── 01_data_preprocessing.ipynb # Предобработка
-│ ├── 02_eda.ipynb # Исследовательский анализ
-│ ├── 03_rfm_analysis.ipynb # RFM-сегментация
-│ ├── 04_market_basket_analysis.ipynb # Анализ корзины
-│ └── 05_business_recommendations.ipynb # Бизнес-рекомендации
-│
-├── src/
-│ ├── data_cleaner.py
-│ ├── rfm_analyzer.py
-│ ├── market_basket.py
-│ └── visualizer.py
-│
-├── reports/
-│ ├── figures/
-│ └── project_report.pdf
-│
-├── requirements.txt
-└── README.md
+## 📦 requirements.txt
 
-
----
-
+```txt
 pandas>=1.3.0
 numpy>=1.21.0
 matplotlib>=3.4.0
