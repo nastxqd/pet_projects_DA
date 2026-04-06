@@ -82,17 +82,6 @@ online_retail_analysis/
 
 ---
 
-
-## 🚀 Как запустить проект
-
-### Установка зависимостей
-```bash
-pip install -r requirements.txt
-Запуск Jupyter Notebook
-bash
-jupyter notebook notebooks/01_data_preprocessing.ipynb
-requirements.txt
-text
 pandas>=1.3.0
 numpy>=1.21.0
 matplotlib>=3.4.0
