@@ -56,6 +56,7 @@ matplotlib>=3.4.0
 seaborn>=0.11.0
 scikit-learn>=0.24.0
 jupyter>=1.0.0
+```
 
 📁 Выходные файлы
 
