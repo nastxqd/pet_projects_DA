@@ -494,16 +494,3 @@ AI-ответы работают в автономном mock-режиме че�
 - пользовательская оценка.
 
 После этого аналитические запросы и dashboard смогут работать без изменения продуктовой модели.
-
-
-## Демонстрация интерфейса
-<img width="1876" height="887" alt="image" src="https://github.com/user-attachments/assets/81e0f92e-3af2-4f01-bac8-5e72839a2cfd" />
-
-<img width="1888" height="910" alt="image" src="https://github.com/user-attachments/assets/6e6a8ed6-f363-49bb-8907-aff77a6536a7" />
-
-<img width="1859" height="904" alt="image" src="https://github.com/user-attachments/assets/62c4b919-2b6e-491c-ae02-3cf772a82e8a" />
-
-<img width="1878" height="897" alt="image" src="https://github.com/user-attachments/assets/e9593d8a-b8d7-4ebd-8918-e6c80acefaaf" />
-
-<img width="1846" height="852" alt="image" src="https://github.com/user-attachments/assets/312873d1-1306-4a71-8408-ae70a602ae7d" />
-

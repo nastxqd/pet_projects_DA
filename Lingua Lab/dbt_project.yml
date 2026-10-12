@@ -1,0 +1,11 @@
+name: lingua_lab
+version: '1.0'
+config-version: 2
+profile: lingua_lab
+model-paths: [models]
+models:
+  lingua_lab:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table
